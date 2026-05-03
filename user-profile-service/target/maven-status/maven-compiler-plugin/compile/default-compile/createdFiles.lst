@@ -1,0 +1,16 @@
+COE_Group4\userprofile\controller\UserProfileController.class
+COE_Group4\userprofile\repository\UserRepository.class
+COE_Group4\userprofile\service\UserProfileService.class
+COE_Group4\userprofile\config\CorsConfig.class
+COE_Group4\userprofile\security\UserContext.class
+COE_Group4\userprofile\entity\User.class
+COE_Group4\userprofile\dto\UserProfileDto.class
+COE_Group4\userprofile\security\JwtService.class
+COE_Group4\userprofile\dto\UpdateProfileRequest.class
+COE_Group4\userprofile\security\SecurityConfig.class
+COE_Group4\userprofile\security\JwtAuthFilter.class
+COE_Group4\userprofile\controller\HealthController.class
+COE_Group4\userprofile\dto\UserStatsDto.class
+COE_Group4\userprofile\repository\StatsRepository.class
+COE_Group4\userprofile\UserProfileApplication.class
+COE_Group4\userprofile\exception\GlobalExceptionHandler.class

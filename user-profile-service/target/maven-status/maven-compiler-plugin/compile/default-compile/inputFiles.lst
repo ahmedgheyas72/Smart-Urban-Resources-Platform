@@ -1,0 +1,16 @@
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\config\CorsConfig.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\controller\HealthController.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\controller\UserProfileController.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\dto\UpdateProfileRequest.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\dto\UserProfileDto.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\dto\UserStatsDto.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\entity\User.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\exception\GlobalExceptionHandler.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\repository\StatsRepository.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\repository\UserRepository.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\security\JwtAuthFilter.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\security\JwtService.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\security\SecurityConfig.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\security\UserContext.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\service\UserProfileService.java
+C:\Users\ahmed\OneDrive\Desktop\Cloud Project\user-profile-service\src\main\java\COE_Group4\userprofile\UserProfileApplication.java
