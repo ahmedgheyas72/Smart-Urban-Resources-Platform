@@ -1,4 +1,4 @@
-# 🏙️ UrbanSpace — Smart Urban Resources Platform
+# 🏙️ UrbanSpace - Smart Urban Resources Platform
 
 > **CMP404 Cloud Computing** · Group 4 · American University of Sharjah · Spring 2026  
 > **Team:** Ahmed (auth · deployment · frontend) · Alaa (booking) · Abdullah (resource) · Sinan (issue)
